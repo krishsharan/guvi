@@ -4,7 +4,7 @@ consonant=  ['b', 'c', 'd', 'f', 'g', 'h', 'j', 'k', 'l', 'm', 'n', 'p', 'q', 'r
 if(word in vowel):
  print('Vowel')
 elif(word in consonant):
- print('consonant')
+ print('Consonant')
 else:
  print('invalid')
  
