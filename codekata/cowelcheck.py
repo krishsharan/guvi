@@ -6,5 +6,5 @@ if(word in vowel):
 elif(word in consonant):
  print('consonant')
 else:
- print('Invalid')
+ print('invalid')
  
