@@ -1,2 +1,3 @@
 n,p=map(int,input().split())
-print(n**p)
+c=pow(n,p)
+print(c)
