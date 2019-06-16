@@ -1,5 +1,5 @@
 n=int(input())
 m=list(map(int,input().split()))
 m.sort()
-for i in no:
+for i in m:
  print(i,end=" ")
