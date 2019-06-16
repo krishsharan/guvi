@@ -1,4 +1,4 @@
-n=int(input())
+n=input()
 if(n.isnumeric()):
  print('yes')
 else:
