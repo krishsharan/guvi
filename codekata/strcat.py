@@ -1,2 +1,3 @@
-str1,str2=input().split()
-print(str1+str2)
+xx,yy=input().split()
+str1=xx+yy
+print(str1)
