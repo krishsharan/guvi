@@ -1,0 +1,5 @@
+num1=int(input())
+num2=list(map(int,input().split()))
+small=min(num2)
+big=max(num2)
+print(small,end=' ',big)
