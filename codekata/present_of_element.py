@@ -5,7 +5,7 @@ if(len(yy)==x1):
  for i in yy:
   if(i==x2):
    count=1
-   if(count==1):
-    print('yes')
-   else: 
-    print('no') 
+ if(count==1):
+  print('yes')
+ else: 
+  print('no') 
