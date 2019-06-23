@@ -1,2 +1,3 @@
 word=input()
-print(word)
+string=str(word)
+print(string)
