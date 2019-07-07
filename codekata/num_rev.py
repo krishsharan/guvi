@@ -1,3 +1,3 @@
-x=int(input())
+x=input()
 y=x[::-1]
 print(y)
